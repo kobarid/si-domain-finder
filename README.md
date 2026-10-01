@@ -22,7 +22,6 @@ pip install requests certifi
 ## Run
 
 ```powershell
-cd D:\Smeti\si-domains
 python si_hybrid.py https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
 ```
 
